@@ -63,3 +63,4 @@ git checkout 2f31c9e
 ```
 git checkout master
 ```
+## 8. Игнорирование файлов.
